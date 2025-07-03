@@ -1,22 +1,12 @@
 # --- Hugo 核心設定 ---
-# 確認 baseURL 使用您正確的使用者名稱 NeoZPT
 baseURL = 'https://NeoZPT.github.io/MyCoolBlog/'
-
 languageCode = 'zh-TW'
 title = '我的酷炫部落格'
 theme = 'ananke'
 
 # --- Ananke 主題專屬設定 ---
-# 【重要】[params] 下方每一行前面的無效空格都已移除
 [params]
 author = "NEO帥哥部落格"
 description = "一段關於您網站的簡短描述。"
-
-# 如果您有準備 logo 圖片，可以把它放在 static 資料夾，然後在這裡填上檔名
 site_logo = "rocket.jpg"
-
-# --- 社群連結 ---
-# 確認 github 使用者名稱也是正確的 NeoZPT
 github = "NeoZPT"
-
-# 於 2025-07-03 15:28 重新觸發部署
