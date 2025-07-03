@@ -1,0 +1,6 @@
+# 網站的語言
+languageCode = 'zh-TW'
+# 網站的主標題
+title = '我的酷炫部落格'
+# 告訴 Hugo 我們要使用 ananke 這個主題
+theme = 'ananke'
