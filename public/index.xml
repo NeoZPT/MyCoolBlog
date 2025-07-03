@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我的酷炫部落格</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/MyCoolBlog/</link>
     <description>Recent content on 我的酷炫部落格</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/MyCoolBlog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>//localhost:1313/posts/hello-world/</link>
+      <title>My First Post</title>
+      <link>http://localhost:1313/MyCoolBlog/posts/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h1 id=&#34;這是您網站未來的最終網址為了部署到-github-pages請務必修改成這個格式&#34;&gt;這是您網站未來的最終網址，為了部署到 GitHub Pages，請務必修改成這個格式&lt;/h1&gt;&#xA;&lt;h1 id=&#34;請將--換成您的-github-使用者名稱-例如-neozpt&#34;&gt;請將 &lt;!-- raw HTML omitted --&gt; 換成您的 GitHub 使用者名稱 (例如 NeoZPT)&lt;/h1&gt;&#xA;&lt;p&gt;baseURL = &amp;lsquo;https://&lt;!-- raw HTML omitted --&gt;.github.io/MyCoolBlog/&amp;rsquo;&lt;/p&gt;&#xA;&lt;p&gt;languageCode = &amp;lsquo;zh-TW&amp;rsquo;&#xA;title = &amp;lsquo;我的酷炫部落格&amp;rsquo;&#xA;theme = &amp;lsquo;ananke&amp;rsquo;&lt;/p&gt;&#xA;&lt;h1 id=&#34;這是存放主題專屬設定的地方&#34;&gt;這是存放主題專屬設定的地方&lt;/h1&gt;&#xA;&lt;p&gt;[params]&#xA;author = &amp;ldquo;您的名字或暱稱&amp;rdquo;&#xA;description = &amp;ldquo;一段關於您網站的簡短描述。&amp;rdquo;&lt;/p&gt;&#xA;&lt;h1 id=&#34;如果您有-logo-圖片可以把它放在-static-資料夾然後在這裡填上檔名&#34;&gt;如果您有 logo 圖片，可以把它放在 static 資料夾，然後在這裡填上檔名&lt;/h1&gt;&#xA;&lt;h1 id=&#34;site_logo--my-logopng&#34;&gt;site_logo = &amp;ldquo;my-logo.png&amp;rdquo;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;社群連結填上您的-id-即可&#34;&gt;社群連結，填上您的 ID 即可&lt;/h1&gt;&#xA;&lt;p&gt;github = &amp;ldquo;&lt;!-- raw HTML omitted --&gt;&amp;rdquo;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/MyCoolBlog/posts/hello-world/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
