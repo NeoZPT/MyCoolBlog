@@ -1,6 +1,6 @@
 # 這是您網站未來的最終網址，為了部署到 GitHub Pages，請務必修改成這個格式
 # 請將 <Your-Username> 換成您的 GitHub 使用者名稱 (例如 NeoZPT)
-baseURL = 'https://<Your-Username>.github.io/MyCoolBlog/'
+baseURL = 'https://NeoZPT.github.io/MyCoolBlog/'
 
 languageCode = 'zh-TW'
 title = '我的酷炫部落格'
